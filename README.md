@@ -1,6 +1,6 @@
 # Android Movie App
 
-Its a simple movie app I coded in android studio & java by help of `https://movieapi.ir/` .
+It's a simple movie app I coded in Android Studio & java with the help of `https://moviesapi.ir/`.
 
 ## login info
 
