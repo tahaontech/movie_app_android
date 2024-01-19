@@ -1,0 +1,31 @@
+<resources>
+    <!-- intro activity -->
+    <string name="app_name">Movie</string>
+    <string name="textView2">Discover Your</string>
+    <string name="textview3">Favorite Show</string>
+    <string name="textView4">Watch Now or Watch Later</string>
+    <string name="textView5">you can browse movies and shows by genre,
+search for a specific title, or
+checkout our recommendation for you</string>
+    <string name="btn1">Get Started</string>
+
+    <!-- login -->
+    <string name="textview6">Log In</string>
+    <string name="hin1">User Name</string>
+    <string name="hin2">Password</string>
+    <string name="textview7">Forgot Your Password</string>
+    <string name="btn2">Login</string>
+
+    <!-- main -->
+    <string name="hint3">Search Movies...</string>
+    <string name="textview8">Best Movies</string>
+    <string name="textview9">Category</string>
+    <string name="textview10">Upcoming Movies</string>
+    <string name="textview11">Explorer</string>
+    <string name="textview12">Favorite</string>
+    <string name="textview13">Cart</string>
+    <string name="textview14">Profile</string>
+
+    <string name="textviewDetail1">Summary</string>
+    <string name="textviewDetail2">Actors</string>
+</resources>
